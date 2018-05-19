@@ -1,6 +1,8 @@
 # journal_ros
 
 ### ROS install tutorial ###
+https://blog.csdn.net/softimite_zifeng/article/details/78632211
+https://www.cnblogs.com/liu-fa/p/5779206.html
 查看可用的package
 $　apt-cache search ros-kinetic
 
